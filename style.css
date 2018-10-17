@@ -1,0 +1,76 @@
+.jumbotron{
+  background-color: black
+  color: white;
+}
+
+.burger-back{
+    background-image: url(../Images/MacroBurger.jpg);
+    background-position: center;
+}
+
+.kitchen-back{
+    background-image: url(../Images/MoodyOverhead.jpg);
+    background-position: center;
+}
+
+.dollar-back{
+  background-image: url(../Images/RTJ.jpg);
+  background-position: center;
+}
+
+}
+body{
+    background-color: #fff4d8;
+
+}
+
+.menu{
+  text-align: center;
+  background-color: #cceaff;
+}
+.about{
+  background-color: #f4e6f7;
+}
+
+h1{
+  text-align: center;
+}
+
+.BurningMan{
+  width: 65%;
+  margin: 0 auto;
+  text-indent: 5%;
+}
+
+.giphy-embed{
+  height: auto;
+  width: 100%;
+  object-fit: contain;
+}
+.image-backed{
+  font-size: 60px;
+  padding: 10px;
+  color: white;
+  text-shadow: 2px 2px #ff0000;
+  border: 1px red solid;
+
+
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+  height: 300px;
+  text-align: center;
+
+  padding-top: 100px;
+
+}
+
+.divfit{
+  height: auto;
+  width: 100%;
+  object-fit: contain;
+}
+
+button{
+  margin: 0 auto;
+}
